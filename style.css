@@ -10,15 +10,6 @@ h1 {
     margin-bottom: -25px;
 }
 
-p {
-    color: white;
-    text-align: center;
-    margin-top: 35px;
-    font-style: italic;
-    line-height: 1.5;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
 .table_example {
     margin-left: auto;
     margin-right: auto;
